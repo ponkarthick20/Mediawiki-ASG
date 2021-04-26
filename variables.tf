@@ -19,8 +19,6 @@ variable "asg_max" {
   default = "1"
 }
 
-# Update the key pair name Here
-
 variable "asg_desired" {
   default = "1"
 }
